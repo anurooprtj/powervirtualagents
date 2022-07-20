@@ -25,7 +25,7 @@ on:
        default: solutions/
 env:
 #edit your values here
-  ENVIRONMENT_URL: 'wrench-development.crm8.dynamics.com'
+  ENVIRONMENT_URL: 'https://wrench-development.crm8.dynamics.com/'
   CLIENT_ID: '18219c1d-ea6a-45db-90bf-3b16374d6972'
   TENANT_ID: '78c6aea6-0bb3-4f1e-8fa2-6a2ba458a75f'
 
